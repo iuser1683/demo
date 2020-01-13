@@ -22,7 +22,10 @@ Steps to Run the script:
 5) Enter the command "py.test .\test_suite_demo.py --html Report01.html
 
 Example:
-PS E:\Experiment\herokupapp\tests> py.test .\test_suite_demo.py --html Report01.html
+PS E:\Experiment\herokupapp\tests> py.test .\test_suite_demo.py --html Report01.html --browser chrome
+Optional arguments:
+--browser =>chrome or firefox or iexplorer (default firefox)
+--html => Report file name
 ==================================================================== test session starts ====================================================================
 platform win32 -- Python 3.8.1, pytest-5.3.2, py-1.8.1, pluggy-0.13.1
 rootdir: E:\Experiment\herokupapp\tests
