@@ -1,8 +1,10 @@
+
 Pre-Requsites to Python Install
 1) Install Python 3.8
 2)pip install py
 3) pip install pytest-ordering
 4) pip install pytest-html
+5) pip install selenium
 
 Selenium Drivers:
 1)Copy all the Selenium drivers (ChromeDriver, geckodriver, IEDriverServer) to the local drive say "C:\selenium\drivers"
