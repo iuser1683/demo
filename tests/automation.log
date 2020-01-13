@@ -1,0 +1,354 @@
+01/12/2020 08:35:37 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 08:35:37 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 08:35:37 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:35:37 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:35:38 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:35:38 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:35:38 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 08:35:38 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c195eaa6-a934-4a74-bf0a-f10a635c8045", element="89ecfafa-325d-40e5-acc2-eb681569cc20")>True
+01/12/2020 08:35:38 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 08:35:38 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 08:35:38 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 08:37:59 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 08:37:59 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 08:37:59 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:37:59 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:37:59 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:37:59 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:37:59 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 08:37:59 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="dd630529-6051-4d37-9c37-c001d3887dcf", element="ae833dad-67a9-4bbb-b05f-3ee6a41c1be0")>True
+01/12/2020 08:37:59 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 08:37:59 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 08:37:59 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 08:38:09 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:38:09 PM - NavigationTests - INFO: Finding total clickable elements in home page
+01/12/2020 08:38:09 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:38:11 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:38:11 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 08:38:11 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:45:28 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 08:45:28 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 08:45:28 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:45:28 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:45:28 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:45:28 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:45:28 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 08:45:28 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ece028fd-49d2-4e50-b50c-19cdb8c3c694", element="db9e73f4-4754-482b-be81-0532684e62c9")>True
+01/12/2020 08:45:28 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 08:45:28 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 08:45:28 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 08:47:09 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:47:09 PM - NavigationTests - INFO: Finding total clickable elements in home page
+01/12/2020 08:47:09 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:47:11 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:47:11 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 08:47:11 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:47:19 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 08:47:19 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 08:47:19 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:47:19 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:47:20 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:47:20 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:47:20 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 08:47:20 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9d5c2225-eacc-48b9-8e51-15ef116a6b39", element="6f717404-eedf-4aa4-914d-38b1aadbe1c7")>True
+01/12/2020 08:47:20 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 08:47:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 08:47:20 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 08:49:16 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:16 PM - NavigationTests - INFO: Finding total clickable elements in home page
+01/12/2020 08:49:16 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:18 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:18 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 08:49:18 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:20 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:20 PM - NavigationTests - INFO: Finding total clickable elements in home page
+01/12/2020 08:49:20 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:22 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:22 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 08:49:22 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 08:49:31 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 08:49:31 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 08:49:31 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:49:31 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:49:31 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:49:31 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:49:31 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 08:49:31 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3628aaf6-02ff-4baf-9481-c8d70d369e15", element="355d4ac8-5376-4f40-856b-7e44bf938c09")>True
+01/12/2020 08:49:31 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 08:49:31 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 08:49:31 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 08:57:19 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 08:57:19 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 08:57:19 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:57:19 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:57:20 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 08:57:20 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 08:57:20 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 08:57:20 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ccbd4cdc-fc52-4d26-ac83-1b06e0c72034", element="2c97b7cb-ff76-4383-92ee-8c92788c542e")>True
+01/12/2020 08:57:20 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 08:57:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 08:57:20 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:00:44 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:00:44 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:00:44 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:00:44 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:00:44 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:00:45 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:00:45 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:00:45 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="dbd99135-5a0a-4270-af39-64d1f1c81a06", element="b3f76243-e845-4357-9dc6-1a3d36733dd1")>True
+01/12/2020 09:00:45 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:00:45 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:00:45 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:00:51 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:00:51 PM - NavigationTests - INFO: Finding total clickable elements in home page
+01/12/2020 09:00:51 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:00:53 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:00:53 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:00:53 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:04:06 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:04:07 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:04:07 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:04:07 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:04:07 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:04:07 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:04:07 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:04:07 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0c61d8bf-e636-46c2-b68c-17c1d28eb8e2", element="825b1d24-9ae9-4912-b469-9a99e9d0c1be")>True
+01/12/2020 09:04:07 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:04:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:04:07 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:04:15 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:04:15 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:04:15 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:04:17 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:04:17 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:04:17 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:04:17 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:04:17 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:04:17 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:04:17 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:04:17 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:05:32 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:05:33 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:05:33 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:05:33 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:05:33 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:05:33 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:05:33 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:05:33 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3bd8e546-e29e-41c2-a762-d1dfcff9bfa0", element="251d8040-8f67-44b4-801b-6747c821c795")>True
+01/12/2020 09:05:33 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:05:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:05:33 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:05:40 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:05:40 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:05:40 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:05:42 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:05:42 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:05:42 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:05:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:05:42 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:05:42 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:05:42 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:05:42 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:05:44 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 09:05:44 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 09:25:39 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:25:39 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:25:39 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:25:39 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:25:40 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:25:40 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:25:40 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:25:40 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e6320e7-a177-42ed-a182-edc788587c0f", element="26ff7194-c12e-40c2-9152-22e825e4e0ed")>True
+01/12/2020 09:25:40 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:25:40 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:25:40 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:25:46 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:25:46 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:25:46 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:25:48 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:25:48 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:25:48 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:25:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:25:48 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:25:48 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:25:48 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:25:48 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:25:50 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 09:25:51 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 09:27:16 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:27:16 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:27:16 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:27:16 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:27:16 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:27:16 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:27:16 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:27:16 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="afecf8df-7ba9-475e-bf79-2ba80f24c24a", element="5ca29124-ad56-4cbf-b116-26c546bbb7c2")>True
+01/12/2020 09:27:16 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:27:16 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:27:16 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:27:26 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:27:26 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:27:26 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:27:28 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:27:28 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:27:28 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:27:28 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:27:28 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:27:28 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:27:28 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:27:28 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:27:30 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 09:27:31 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 09:27:31 PM - NavigationPage - ERROR: Failed to get page URL
+01/12/2020 09:27:31 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Navigation to AB Test?
+01/12/2020 09:27:31 PM - TestStatus - INFO: Screenshot save to directory: E:\Experiment\herokupapp\base\../screenshots/Navigation to AB Test?.1578893251146.png
+01/12/2020 09:27:31 PM - TestStatus - ERROR: Navigated to AB Test ### TEST FAILED
+01/12/2020 09:36:25 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:36:25 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:36:25 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:36:25 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:36:25 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:36:25 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:36:25 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:36:25 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0c1df957-27c5-4d0b-b8a2-249cf5f619dd", element="fa05f1dc-a91c-4a47-ba42-a26afe2ed5b5")>True
+01/12/2020 09:36:25 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:36:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:36:25 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:36:35 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:36:35 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:36:35 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:36:37 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:36:37 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:36:37 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:36:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:36:37 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:36:37 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:36:37 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:36:37 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:36:39 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 09:36:40 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 09:36:40 PM - NavigationPage - ERROR: Failed to get page URL
+01/12/2020 09:36:40 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Navigation to AB Test?
+01/12/2020 09:36:40 PM - TestStatus - INFO: Screenshot save to directory: E:\Experiment\herokupapp\base\../screenshots/Navigation to AB Test?.1578893800131.png
+01/12/2020 09:36:40 PM - TestStatus - ERROR: Navigated to AB Test ### TEST FAILED
+01/12/2020 09:42:34 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:42:34 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:42:34 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:42:34 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:42:34 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:42:34 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:42:34 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:42:34 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="67ad01d9-4ad9-4edd-a7f0-688e120f9f74", element="4d0ae964-f26e-472a-9db4-e5131939cfa7")>True
+01/12/2020 09:42:34 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:42:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:42:34 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:42:45 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:42:45 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:42:45 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:42:47 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:42:47 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:42:47 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:42:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:42:47 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:42:47 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:42:47 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:42:47 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:42:49 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 09:42:49 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 09:42:51 PM - NavigationPage - ERROR: Failed to get page URL
+01/12/2020 09:42:51 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Navigation to AB Test?
+01/12/2020 09:42:51 PM - TestStatus - INFO: Screenshot save to directory: E:\Experiment\herokupapp\base\../screenshots/Navigation to AB Test?.1578894171586.png
+01/12/2020 09:42:51 PM - TestStatus - ERROR: Navigated to AB Test ### TEST FAILED
+01/12/2020 09:45:04 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:45:04 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:45:04 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:45:04 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:45:04 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:45:04 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:45:04 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:45:04 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ac5f1204-b197-4dc8-a6f3-31d98d161a8b", element="c53159c9-cf1c-4b3d-be87-a5b9f6c8ce67")>True
+01/12/2020 09:45:04 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:45:04 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:45:04 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:45:16 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:45:16 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:45:16 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:45:18 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:45:18 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:45:18 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:45:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:45:18 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:45:18 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:45:18 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:45:18 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:45:20 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 09:45:20 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 09:45:20 PM - NavigationPage - INFO: Actual URLhttp://the-internet.herokuapp.com/abtest
+01/12/2020 09:45:20 PM - NavigationPage - INFO: Expected URLhttp://the-internet.herokuapp.com/abtest
+01/12/2020 09:45:20 PM - Util - INFO: Actual Text From Application Web UI --> :: http://the-internet.herokuapp.com/abtest
+01/12/2020 09:45:20 PM - Util - INFO: Expected Text From Application Web UI --> :: http://the-internet.herokuapp.com/abtest
+01/12/2020 09:45:20 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+01/12/2020 09:45:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Navigation to AB Test?
+01/12/2020 09:45:20 PM - TestStatus - INFO: Navigated to AB Test ### TEST SUCCESSFUL
+01/12/2020 09:47:19 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 09:47:19 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 09:47:19 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:47:19 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:47:19 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 09:47:19 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 09:47:19 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 09:47:19 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4671a957-d852-4034-bebf-bde678dad922", element="e618a518-26b0-4e30-b58e-9be2ca383fa6")>True
+01/12/2020 09:47:19 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 09:47:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 09:47:19 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 09:47:28 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:47:28 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 09:47:28 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:47:30 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 09:47:30 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 09:47:30 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 09:47:30 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 09:47:30 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 09:47:30 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:47:30 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 09:47:30 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 09:47:32 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 09:47:33 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 09:47:33 PM - NavigationPage - INFO: Actual URLhttp://the-internet.herokuapp.com/abtest
+01/12/2020 09:47:33 PM - NavigationPage - INFO: Expected URLhttp://the-internet.herokuapp.com/abtest
+01/12/2020 09:47:33 PM - Util - INFO: Actual Text From Application Web UI --> :: http://the-internet.herokuapp.com/abtest
+01/12/2020 09:47:33 PM - Util - INFO: Expected Text From Application Web UI --> :: http://the-internet.herokuapp.com/abtest
+01/12/2020 09:47:33 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+01/12/2020 09:47:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Navigation to AB Test?
+01/12/2020 09:47:33 PM - TestStatus - INFO: Navigated to AB Test ### TEST SUCCESSFUL
+01/12/2020 10:01:33 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/add_remove_elements/"] and  locatorType: xpath
+01/12/2020 10:01:33 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/add_remove_elements/"] locatorType: xpath
+01/12/2020 10:01:33 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 10:01:33 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 10:01:33 PM - ChildPages - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+01/12/2020 10:01:34 PM - ChildPages - INFO: Element appeared on the web page
+01/12/2020 10:01:34 PM - ChildPages - INFO: Element present with locator: //div[@id='content']//button[text()='Delete'] locatorType: xpath
+01/12/2020 10:01:34 PM - ChildPages - INFO: ELement List<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5999c88a-0762-4eda-9d8b-38eddd1033cb", element="124434d0-49b0-43dd-a944-20eaa32ab13d")>True
+01/12/2020 10:01:34 PM - AllMainTest - INFO: Add remove element is present: PASS=>True
+01/12/2020 10:01:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Is Present
+01/12/2020 10:01:34 PM - TestStatus - INFO: Add Remove Element Present ### TEST SUCCESSFUL
+01/12/2020 10:01:42 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 10:01:42 PM - NavigationTests - INFO: Finding total click-able elements in home page
+01/12/2020 10:01:42 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 10:01:44 PM - NavigationPage - INFO: Element list found with locator: //div/ul/li//a and locatorType: xpath
+01/12/2020 10:01:44 PM - NavigationTests - INFO: Total Elements43
+01/12/2020 10:01:44 PM - NavigationTests - INFO:  Total Elements test: PASS
+01/12/2020 10:01:44 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Total clickable elements
+01/12/2020 10:01:44 PM - TestStatus - INFO: Finding total elements in home page ### TEST SUCCESSFUL
+01/12/2020 10:01:44 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 10:01:44 PM - NavigationTests - INFO: navigating to AB Test link
+01/12/2020 10:01:44 PM - NavigationTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/12/2020 10:01:46 PM - NavigationPage - INFO: Element found with locator: //div/ul/li//a[@href="/abtest"] and  locatorType: xpath
+01/12/2020 10:01:46 PM - NavigationPage - INFO: Clicked on element with locator: //div/ul/li//a[@href="/abtest"] locatorType: xpath
+01/12/2020 10:01:46 PM - NavigationPage - INFO: Actual URLhttp://the-internet.herokuapp.com/abtest
+01/12/2020 10:01:46 PM - NavigationPage - INFO: Expected URLhttp://the-internet.herokuapp.com/abtest
+01/12/2020 10:01:46 PM - Util - INFO: Actual Text From Application Web UI --> :: http://the-internet.herokuapp.com/abtest
+01/12/2020 10:01:46 PM - Util - INFO: Expected Text From Application Web UI --> :: http://the-internet.herokuapp.com/abtest
+01/12/2020 10:01:46 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+01/12/2020 10:01:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Navigation to AB Test?
+01/12/2020 10:01:46 PM - TestStatus - INFO: Navigated to AB Test ### TEST SUCCESSFUL
